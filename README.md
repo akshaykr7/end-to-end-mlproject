@@ -3,6 +3,7 @@
 
 Date: 13-Dec-24
 END TO END ML PROJECTS - KRISH NAIK YOUTUBE CHANNEL
+
 https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2
 
 Set up project with GitHub
@@ -41,8 +42,11 @@ a) new environment
 	git pull (to merge changes done in GitHub webpage)
 
 b) setup.py
+
 c) requirements.txt
+
 d) src folder and build the packages
+
 	pip install -r requirements.txt
 	
 
