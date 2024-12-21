@@ -9,6 +9,7 @@ def get_requirements(file_path:str)->List[str]:
     This function will return the list of requirements
     '''
     requirements=[]
+    # convert requirements.txt file in a list with package names
     with open(file_path) as file_obj:
         requirements=file_obj.readlines()
         requirements=[req.replace("\n", "") for req in requirements]
