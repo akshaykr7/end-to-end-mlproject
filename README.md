@@ -1,5 +1,5 @@
 
-<h1>End to End Machine Learning Projects<h1>
+<h1>End to End Machine Learning Projects</h1>
 
 Date: 13-Dec-24
 
