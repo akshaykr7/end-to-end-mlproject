@@ -18,7 +18,7 @@ II. CI/CD Pipelines - GitHub Actions
 
 III. Deployment AWS
 
-<h2>Tutorial 1 - GitHub & Code Set up</h2>
+<h2>Tutorial 1: GitHub & Code Set up</h2>
 1. Set up the GitHub repository
 
 a) new environment 
@@ -57,9 +57,25 @@ d) src folder and build the packages
 	pip install -r requirements.txt
 	
 
-<h2>Tutorial 2- Project Structure, Logging And Exception Handling</h2>
+<h2>Tutorial 2: Project Structure, Logging And Exception Handling</h2>
 
 1. Create components folder in src folder.
-2. Create files in components folder
-3. Create pipeline folder – training and prediction pipeline 
+	To create different modeules like data ingestion, transformation
+
+2. Create pipeline folder – training and prediction pipeline 
+3. Create logger.py, exception.py, utils.py
+
+exception.py -> create custom error class
+
+logger.py -> logs every execution into the text file
+
+
+<h2>Tutorial 3: Project Statement, EDA and Model Training</h2>
+ML Basics - This part will be used modular files for deployement.
+
+1. Project - Student data [link](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
+2. EDA - Explorator Data Analysis
+3. Model training steps
+
+
 
