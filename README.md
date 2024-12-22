@@ -93,6 +93,10 @@ save preprocessor.pkl file
 
 Model training and evaluation
 
+Run data_ingestion.py file to create .pkl file in artifacts folder
+
+save model.pkl file -> It has best model from src/components/model_trainer.py
+
 <h2>Tutorial 7: Model hyperparameter tuning</h2>
 
 GridSearchcv
@@ -102,6 +106,6 @@ GridSearchcv
 1. create app.py
 2. create templates folder > index.html file inside it (for UI part)
 3. create home.html file under templates -> remember under form action, predict_datapoint function should be same as in app.py file.
-4. 
+4. src/pipeline/predict_pipeline.py
 
 
