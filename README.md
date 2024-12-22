@@ -60,7 +60,8 @@ d) src folder and build the packages
 <h2>Tutorial 2: Project Structure, Logging And Exception Handling</h2>
 
 1. Create components folder in src folder.
-	To create different modeules like data ingestion, transformation
+
+	To create different modules like data ingestion, transformation
 
 2. Create pipeline folder – training and prediction pipeline 
 3. Create logger.py, exception.py, utils.py
@@ -71,11 +72,30 @@ logger.py -> logs every execution into the text file
 
 
 <h2>Tutorial 3: Project Statement, EDA and Model Training</h2>
-ML Basics - This part will be used modular files for deployement.
+
+ML Basics - This part will be used in modular coding (i.e. data_ingestion.py, etc...) for deployement.
 
 1. Project - Student data [link](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 2. EDA - Explorator Data Analysis
 3. Model training steps
 
+<h2>Tutorial 4: Data Ingestion Implementation</h2>
+
+Load data, train test split, save data
+
+<h2>Tutorial 5: Data Transformation</h2>
+
+data preprocessing - Onehotencoder, StandardScaler
+save preprocessor.pkl file
+
+<h2>Tutorial 6: Model Training</h2>
 
 
+
+
+<h2>Tutorial 7: </h2>
+
+
+
+
+<h2>Tutorial 8: </h2>
