@@ -108,4 +108,15 @@ GridSearchcv
 3. create home.html file under templates -> remember under form action, predict_datapoint function should be same as in app.py file.
 4. src/pipeline/predict_pipeline.py
 
+<h2>Tutorial 9: Deployment In AWS Cloud Using CICD Pipelines</h2>
+
+
+<h2>Tutorial 10: </h2>
+
+
+<h2>Tutorial 11: </h2>
+
+
+
+
 
