@@ -86,16 +86,22 @@ Load data, train test split, save data
 <h2>Tutorial 5: Data Transformation</h2>
 
 data preprocessing - Onehotencoder, StandardScaler
+
 save preprocessor.pkl file
 
 <h2>Tutorial 6: Model Training</h2>
 
+Model training and evaluation
+
+<h2>Tutorial 7: Model hyperparameter tuning</h2>
+
+GridSearchcv
+
+<h2>Tutorial 8: Create Prediction Pipeline Using Flask Web APP</h2>
+
+1. create app.py
+2. create templates folder > index.html file inside it (for UI part)
+3. create home.html file under templates -> remember under form action, predict_datapoint function should be same as in app.py file.
+4. 
 
 
-
-<h2>Tutorial 7: </h2>
-
-
-
-
-<h2>Tutorial 8: </h2>
